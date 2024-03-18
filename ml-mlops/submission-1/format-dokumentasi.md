@@ -1,5 +1,5 @@
 # Submission 1: Nama Proyek Anda
-Nama:
+Nama: Andreas Natanael Bunyamin
 
 Username dicoding:
 
